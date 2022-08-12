@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a Full-stack Developer<br>🌱 I’m currently learning React.js<br>💬 Ask me about React.js, JS, HTML, CSS, Python, Jira <br>📫 How to reach me nurettinakinoral@gmail.com
+🔭 I’m currently working on becoming a Full-stack Developer<br>🌱 I’m currently learning Django<br>💬 Ask me about React.js, JS, HTML, CSS, Python, Jira <br>📫 How to reach me nurettinakinoral@gmail.com
 
 
 ## 🌐 Socials:
