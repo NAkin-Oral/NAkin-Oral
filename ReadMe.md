@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on becoming a Full-stack Developer<br>🌱 I’m currently learning Django<br>💬 Ask me about React.js, JS, HTML, CSS, Python, Jira, Django<br>📫 How to reach me nurettinakinoral@gmail.com
+🔭 I’m currently working on becoming a Full-stack Developer<br>🌱 I’m currently learning Django<br>💬 Ask me about React.js, JS, HTML, CSS, Python, Jira, Django<br>📫 How to reach me nurettin@clarusway.com
 
 
 ## 🌐 Socials:
